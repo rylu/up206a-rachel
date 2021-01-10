@@ -9,7 +9,7 @@ Program: MURP, Transportation Policy and Planning
 
 Graduation Year: 2022
 
-Description: I'm currently based in Los Angeles, but I was born and raised in Ann Arbor, MI and spent the last 7 years living in Oakland, CA. My background is in fundraising and marketing in both the non-profit and private sector. My research intersts in grad school lie at the intersection of transportation, sustainability, and environmental justice. I have a passing familiarity with GIS but am new to coding. 
+Description: I'm currently based in Los Angeles, but I was born and raised in Ann Arbor, MI and spent the last 7 years living in Oakland, CA. My background is in fundraising and marketing in both the non-profit and private sector. My research intersts in grad school lie at the intersection of transportation, sustainability, and environmental justice. I am particularly interested in California's climate policies and the potential to replicate aspects of those policies in other states. I have a passing familiarity with GIS but am new to coding. 
 
 ## Course Description
 The goal of course 206a is to expose students to the foundations of spatial data science. Through this course, students will learn to: 

@@ -23,7 +23,7 @@ The goal of course 206a is to expose students to the foundations of spatial data
 I'm interested in projects at any scale. Projects ideas include: 
 
 1. Transportation, environmental justice, and pollution through a race and class lens, particularly in communities near major ports, shipping/warehouse hubs, or major freeways
-  1a. Example: Expansion of shipping warehouses like Amazon in the Inland Empire and potential impact on air pollution exposure for low-income communities of color 
+   a. Example: Expansion of shipping warehouses like Amazon in the Inland Empire and potential impact on air pollution exposure for low-income communities of color 
 2. Autonomous vehicle adoption and potential associated transportation mode shifts and/or pollution impacts
 
 ## My Class Objectives 

@@ -1,4 +1,4 @@
-#The Future of Climate Change Lies in Data Analytics
+# The Future of Climate Change Lies in Data Analytics
 
 The Medium article *The Future of Global Warming Lies in Data Analytics* discusses the ways in which climate scientists are using data analytics to understand current climate change impacts and predict future trends. The article asserts that scientists can use data analytics to more efficiently leverage large amounts of data and make better predictions than with traditional statistics. Data analytics can help us solve for climate change problem by allowing us to create maps that model sea level rise, monitor illegal logging, forecast air pollution, and much more to inform adaptation strategies and future development. 
 
